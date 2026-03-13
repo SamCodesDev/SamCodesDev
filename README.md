@@ -7,5 +7,16 @@
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SamCodesDev&show_icons=true&theme=tokyonight"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCodesDev&layout=compact&theme=tokyonight"/>
-  ![GitHub Streak](https://streak-stats.demolab.com?user=SamCodesDev&theme=tokyonight)
+  <img height="170em" src="https://streak-stats.demolab.com?user=SamCodesDev&theme=tokyonight"/>
 </p>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Samuel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+
