@@ -6,7 +6,7 @@
 <p align="center">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=SamCodesDev&show_icons=true&theme=tokyonight"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCodesDev&layout=compact&theme=tokyonight"/>
-  <img height="100em" src="https://streak-stats.demolab.com?user=SamCodesDev&theme=tokyonight"/>
+  <img height="120em" src="https://streak-stats.demolab.com?user=SamCodesDev&theme=tokyonight"/>
 </p>
 
 
